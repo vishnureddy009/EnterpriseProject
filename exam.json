@@ -1,0 +1,40 @@
+{
+        "_id" : ObjectId("5deaf7f1179021ad222ab0cb"),
+        "name" : "E101",
+        "marks" : 200
+}
+{
+        "_id" : ObjectId("5deaf7f1179021ad222ab0cc"),
+        "name" : "E102",
+        "marks" : 150
+}
+{
+        "_id" : ObjectId("5deaf7f1179021ad222ab0cd"),
+        "name" : "E103",
+        "marks" : 250
+}
+{
+        "_id" : ObjectId("5deaf7f1179021ad222ab0ce"),
+        "name" : "E104",
+        "marks" : 100
+}
+{
+        "_id" : ObjectId("5deaf7f1179021ad222ab0cf"),
+        "name" : "E106",
+        "marks" : 250
+}
+{
+        "_id" : ObjectId("5deaf7f1179021ad222ab0d0"),
+        "name" : "E105",
+        "marks" : 150
+}
+{
+        "_id" : ObjectId("5deaf7f1179021ad222ab0d1"),
+        "name" : "E107",
+        "marks" : 200
+}
+{
+        "_id" : ObjectId("5deaf7f1179021ad222ab0d2"),
+        "name" : "E108",
+        "marks" : 100
+}
